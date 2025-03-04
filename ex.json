@@ -1,0 +1,14 @@
+{
+    "url": "https://www.google.com",
+    "method": "GET",
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "body": {
+        "name": "John Doe",
+        "age": 30
+    },
+    "params": {
+        "id": 1
+    }
+}
